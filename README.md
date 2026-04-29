@@ -52,12 +52,7 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrithwisK07&show_icons=true&theme=radium" alt="Prithwis's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrithwisK07&theme=radium" alt="Prithwis's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=PrithwisK07&theme=radium" width="48%" />
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrithwisK07&layout=compact&theme=radium" alt="Top Languages" width="60%" />
-</div>
