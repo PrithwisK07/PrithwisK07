@@ -7,6 +7,15 @@
   <p>
     I am a Computer Science student based in Bengaluru, seeking a Software Engineer Intern role. I focus on building scalable full-stack applications, backend systems, and distributed architectures, with a strong interest in Web3 technologies.
   </p>
+  
+<br/>
+
+<div width="100%" display="flex" justify-content="space-between" align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="200" alt="Pixel Mario Walking" />
+  <img height="200" alt="Chill Kong - Pixel Jeff" src="https://github.com/user-attachments/assets/39d3caca-782a-4005-924c-6a329215fb56" />
+</div>
+
+<br/>
 
   <p align="center">
     <a href="mailto:karmakarprithwis566@gmail.com">
@@ -19,11 +28,6 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
   </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" alt="Pixel Mario Walking" />
-  <img src="https://i.pinimg.com/1200x/19/3f/e6/193fe65d723be3d0480eef36df10a8a2.jpg" height="250" alt="Pixel Mario Walking" />
 </div>
 
 ---
@@ -106,3 +110,11 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PrithwisK07/PrithwisK07/output/pacman-contribution-graph.svg">
   </picture>
 </div>
+
+---
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=PrithwisK07&theme=radium" width="60%" />
+</div>
+
+
