@@ -2,6 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20I'm%20Prithwis%20👋&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
+
 <div align="center">
   <p>
     I am a Computer Science student based in Bengaluru, seeking a Software Engineer Intern role. I focus on building scalable full-stack applications, backend systems, and distributed architectures, with a strong interest in Web3 technologies.
@@ -18,6 +19,11 @@
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
     </a>
   </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="250" alt="Pixel Mario Walking" />
+  <img src="https://i.pinimg.com/1200x/19/3f/e6/193fe65d723be3d0480eef36df10a8a2.jpg" height="250" alt="Pixel Mario Walking" />
 </div>
 
 ---
@@ -94,7 +100,9 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=PrithwisK07&theme=radium" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrithwisK07/PrithwisK07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrithwisK07/PrithwisK07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrithwisK07/PrithwisK07/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-
-<br/>
