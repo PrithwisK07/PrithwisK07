@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20I'm%20Prithwis%20👋&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=Hi,%20I'm%20Prithwis%20&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%" alt="Header Banner" />
 </div>
 
 
@@ -30,9 +30,9 @@
   </p>
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### **Nexus Flow – Web3 Orchestration Platform**
 
@@ -46,7 +46,7 @@
 - Implemented ERC-4337 Account Abstraction for gasless transactions, increasing throughput by **25%**.  
 - Built a modular node-based architecture supporting **25+ integrations** across DeFi protocols and APIs.  
 
----
+<br/>
 
 ### **AgentFi – Autonomous Asset Management**
 
@@ -60,7 +60,7 @@
 - Integrated Phala Network (TEE) reducing gas costs by **~40%**.  
 - Built a Visual Decision Forest UI for real-time AI logic rendering.  
 
----
+<br/>
 
 ### **Mailwise – AI Email Automation System**
 
@@ -73,9 +73,9 @@
 - Designed a fault-tolerant queue handling **5,000+ emails/hour**.  
 - Integrated Gemini API achieving **95%+ classification accuracy**.  
 
----
+<br/>
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -83,25 +83,25 @@
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,solidity" />
 <br/>
 
----
+
 
 ### **Backend & Database**
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,rabbitmq" />
 
----
+
 
 ### **Frontend**
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs" />
 
----
+
 
 ### **Systems & Tools**
 <img src="https://skillicons.dev/icons?i=docker,redis,git" />
 </div>
 
----
 
-## 📊 GitHub Analytics
+<br/><br/>
+## GitHub Analytics
 
 <div align="center">
   <picture>
@@ -111,7 +111,7 @@
   </picture>
 </div>
 
----
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=PrithwisK07&theme=radium" width="60%" />
